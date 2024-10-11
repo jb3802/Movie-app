@@ -1,0 +1,14 @@
+{
+  "name": "MovieApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "@react-native-community/datetimepicker": "^8.2.0",
+    "expo": "^51.0.37",
+    "expo-dev-client": "~4.0.28",
+    "react-native": "0.75.4"
+  }
+}

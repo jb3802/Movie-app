@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "827bf7ab-7363-4b6f-9c09-e8d4b38f462d"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.jb3802.movieapp"
+    }
+  }
+}
