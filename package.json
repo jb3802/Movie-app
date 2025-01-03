@@ -1,0 +1,29 @@
+{
+  "name": "movie-app",
+  "version": "1.0.0",
+  "description": "Scheduling App",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jb3802/Movie-app.git"
+  },
+  "keywords": [
+    "Expo",
+    "movie-scheduler",
+    "scheduler"
+  ],
+  "author": "JB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jb3802/Movie-app/issues"
+  },
+  "homepage": "https://github.com/jb3802/Movie-app#readme",
+  "dependencies": {
+    "@react-native-community/datetimepicker": "^8.2.0",
+    "expo": "^51.0.38",
+    "react-native": "^0.76.5"
+  }
+}
