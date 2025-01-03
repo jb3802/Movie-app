@@ -23,7 +23,7 @@
   "homepage": "https://github.com/jb3802/Movie-app#readme",
   "dependencies": {
     "@react-native-community/datetimepicker": "^8.2.0",
-    "expo": "^51.0.38",
+    "expo": "^52.0.23",
     "react-native": "^0.76.5"
   }
 }
